@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Yeongeun11's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeongeun11&count_private=true)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle={commit}&theme=cold)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=yeongeun11&theme=warm)
+
