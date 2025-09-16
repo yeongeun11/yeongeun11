@@ -15,7 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Yeongeun11's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeongeun11&count_private=true)
-pip install -r requirements.txt
 uvicorn main:app --reload
-![mazandi profile](http://mazandi.herokuapp.com/api?handle={handle}&theme=warm)
 <img src="http://mazandi.herokuapp.com/api?handle={handle}&theme=warm"/>
