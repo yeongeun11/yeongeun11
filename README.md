@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 </p>
 <br><br>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yeongeun11&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=yeongeun11&count_private=true&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yeongeun11&theme=github_dark" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yeongeun11&count_private=true&show_icons=true&theme=gruvbox_light&title_color=228B22&icon_color=32CD32&text_color=006400&bg_color=0D1117" width="48%" />
 </p>
