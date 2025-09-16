@@ -25,3 +25,6 @@ Here are some ideas to get you started:
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yeongeun11&theme=solarized" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api?username=yeongeun11&count_private=true&show_icons=true&theme=default&title_color=228B22&icon_color=32CD32&text_color=006400&bg_color=ffffff" width="48%" />
 </p>
+
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/yeongeun11&title=hits&edge_flat=false&color=32CD32)
+![GitHub followers](https://img.shields.io/github/followers/yeongeun11?style=social)
