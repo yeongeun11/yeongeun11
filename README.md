@@ -16,11 +16,9 @@ Here are some ideas to get you started:
 -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?size=40&color=FF69B4&font=Pacifico&center=true&vCenter=true&lines=Hi+I'm+yeongeun" />
+    <img src="https://readme-typing-svg.herokuapp.com?size=40&color=9370DB&font=Pacifico&center=true&vCenter=true&lines=Hi+I'm+yeongeun" />
   </a>
 </p>
-
-
 
 
 <p align="center">
