@@ -19,6 +19,10 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=yeongeun11&count_private=true&show_icons=true&theme=radical" height="200"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yeongeun11&theme=tokyonight" height="200"/>
 </div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yeongeun11&count_private=true&show_icons=true&theme=radical" height="200"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yeongeun11&theme=tokyonight" height="200"/>
+</p>
 
 
 
