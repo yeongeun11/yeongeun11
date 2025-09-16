@@ -17,11 +17,7 @@ Here are some ideas to get you started:
 
 <br><br>
 
-<p align="center">
-  <pre>
-🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿
-  </pre>
-</p>
+<p align="center">🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿</p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -29,11 +25,7 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-<p align="center">
-  <pre>
-🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿
-  </pre>
-</p>
+<p align="center">🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿</p>
 
 <br><br>
 
@@ -43,6 +35,8 @@ Here are some ideas to get you started:
 </p>
 
 <br><br>
+
+
 
 
 
