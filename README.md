@@ -14,7 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=FF69B4&lines=Hi+I'm+yeongeun)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?size=40&color=FF69B4&font=Pacifico&center=true&vCenter=true&lines=Hi+I'm+yeongeun" />
+  </a>
+</p>
+
 
 
 
