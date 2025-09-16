@@ -14,7 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Yeongeun11's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeongeun11&count_private=true) [![GitHub Commits Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yeongeun11&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+<!-- GitHub Stats + Commit Graph 나란히 -->
+<div style="display: flex; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=yeongeun11&count_private=true&show_icons=true&theme=radical" height="200"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yeongeun11&theme=tokyonight" height="200"/>
+</div>
 
 
 
