@@ -16,4 +16,3 @@ Here are some ideas to get you started:
 -->
 ![Yeongeun11's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeongeun11&count_private=true)
 
-[![GitGarden](https://gitgarden.marshallku.dev/?user_name=yeongeun11)](https://github.com/marshallku/gitgarden)
