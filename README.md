@@ -19,8 +19,7 @@ Here are some ideas to get you started:
     <img src="https://readme-typing-svg.herokuapp.com?size=40&color=9370DB&font=Pacifico&center=true&vCenter=true&lines=Hi+I'm+yeongeun" />
   </a>
 </p>
-
-
+<br><br>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yeongeun11&count_private=true&show_icons=true&theme=radical" height="200"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yeongeun11&theme=tokyonight" height="200"/>
