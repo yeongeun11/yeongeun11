@@ -19,9 +19,10 @@ Here are some ideas to get you started:
 🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?size=40&color=32CD32&font=Fredoka+One&center=true&vCenter=true&lines=Hi+I'm+yeongeun" />
+    <img src="https://readme-typing-svg.herokuapp.com?size=40&color=32CD32&font=Nanum+Pen+Script&center=true&vCenter=true&lines=Hi+I'm+yeongeun" />
   </a>
 </p>
+
 
 <br><br>
 <p align="center">
