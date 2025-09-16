@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 
 <br><br>
-🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿
+🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?size=40&color=32CD32&font=Baloo+2&center=true&vCenter=true&lines=Hi+I'm+yeongeun" />
+    <img src="https://readme-typing-svg.herokuapp.com?size=40&color=32CD32&font=Comic+Neue&center=true&vCenter=true&lines=Hi+I'm+yeongeun" />
   </a>
 </p>
 <br><br>
@@ -27,6 +27,6 @@ Here are some ideas to get you started:
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yeongeun11&theme=solarized" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api?username=yeongeun11&count_private=true&show_icons=true&theme=default&title_color=228B22&icon_color=32CD32&text_color=006400&bg_color=ffffff" width="48%" />
 </p>
-🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿
+🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿
 
 
