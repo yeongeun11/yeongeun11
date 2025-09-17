@@ -60,13 +60,6 @@ Here are some ideas to get you started:
 
 <br>
 
-<!-- Contact -->
-<p align="center">
-  📫 How to reach me: <a href="mailto:your_email@example.com">your_email@example.com</a>
-</p>
-
-
-
 
 
 
