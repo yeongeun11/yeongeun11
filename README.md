@@ -42,11 +42,3 @@ Here are some ideas to get you started:
 </p>
 
 <br>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yeongeun11&bg_color=ffffff&color=006400&line=32CD32&point=228B22&area=true&hide_border=true" width="90%"/>
-</p>
-
-<br>
-
-
